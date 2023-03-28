@@ -11,7 +11,7 @@ const calculate = () => {
         outpt.textContent = '';
         break;
       case 'b':
-        outpt.textContent = 'Спасибо за сделанный выбор!';
+        outpt.textContent = 'Ты приняла нужный выбор!';
         break;
     };
 };
